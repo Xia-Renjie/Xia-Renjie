@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xrj5248
+- 👋 Hi, I’m @Xia-Renjie (you can call me Ranger or RangerX)
 - 👀 I’m interested in Football, Sim Racing and all kinds of real life racing competitions (F1, GT3, Touring Cars and so on)
 - 🌱 I’m currently learning Arduino coding, and developing my own sim racing gears
 - 📫 How to reach me : xrj5248@gmail.com
